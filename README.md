@@ -1,2 +1,2 @@
-# personalised-recs-at-scale-course
-Solutions for the Co:Rise Personalised Recommendations at Scale Course Assignments
+# Personalised Recommendations at Scale
+Solutions for the [Co:Rise Personalised Recommendations at Scale](https://corise.com/course/personalized-recommendation-at-scale) Course Assignments
